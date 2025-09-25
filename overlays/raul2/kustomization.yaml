@@ -4,3 +4,7 @@ bases:
   - ../../base
 
 nameSuffix: -raul2
+
+
+resources:
+- route.yaml
