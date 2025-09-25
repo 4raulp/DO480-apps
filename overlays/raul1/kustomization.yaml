@@ -4,3 +4,9 @@ bases:
   - ../../base
 
 nameSuffix: -apac
+
+
+images:
+  - name: image123
+    newname: registry.image.example/dfdsfd
+    newTag: 1-152
